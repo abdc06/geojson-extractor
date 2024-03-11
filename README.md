@@ -16,4 +16,4 @@ pyinstaller ./app.spec
 6. 다운로드 경로 설정
 7. 실행 버튼 클릭
 
-![program](https://github.com/abdc06/geojson-extractor/assets/113388660/da4cb310-af06-432f-9ca4-8cdbe6192021)
+![program](https://github.com/abdc06/geojson-extractor/assets/113388660/226130b3-1976-47c5-b41e-4775ef0af2e4)
