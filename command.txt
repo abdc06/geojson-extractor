@@ -1,0 +1,8 @@
+pyinstaller --icon=favicon.ico -F -w app.py
+pyinstaller --upx-dir "C:/upx-4.2.2-win64" --icon=favicon.ico -F -w app.py
+pyinstaller app.spec
+
+pip install qtmodern
+pip install PyQt6
+pip install geopandas
+pip install pyinstaller
